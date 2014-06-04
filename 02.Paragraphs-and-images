@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+    <title>Paragraphs and images of text</title>
+    </head>
+    <body>
+        <p>Some <sup>text</sup></p>
+        <p><strong>Some</strong> text</p>
+        <p>Some <em>text</em></p>
+        <p>Some <sub>text</sub></p>
+        <img src="Desert.jpg" width="200" height="200" alt="Desert" />
+        <img src="Chrysanthemum.jpg" width="200" height="200" alt="Chrysanthemum" />
+    </body>
+</html>
