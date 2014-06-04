@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Dog Social Network - Profile</title>
+</head>
+    <body>
+    <h1>Doge Social Network</h1>
+        <nav>
+        <ul type ="disc">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="profile.html">Profile</a></li>
+            <li><a href="friends.html">Friends</a></li>
+        </ul>
+        </nav>
+        <hr width="100%" />
+        <h3>Wellcome  to the Doge Social Network</h3>
+        <hr width="100%" />
+        <p>Here you can find friends ot stalk strangers</p>
+        <p>The Doge Social Network does not take any responsibility for the information found</p>
+    </body>
+</html>
