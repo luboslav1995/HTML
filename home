@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Dog Social Network - Profile</title>
 </head>
-    <body>
+    <body bgcolor="skyblue">
     <h1>Doge Social Network</h1>
         <nav>
         <ul type ="disc">
