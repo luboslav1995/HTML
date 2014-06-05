@@ -1,0 +1,31 @@
+<!DOCTYPE>
+<html>
+<head>
+    <link rel="stylesheet" href="powerpoint.css" type="text/css" />
+    <meta charset="utf-8">
+    <title>Power Point Slide</title>
+    </head>
+    <body>
+    <h2><strong>Heading and Paragraphs</strong></h2>
+        <ul type="square">
+        <li><h3>Heading tags:  <span>&lt h1 &gt</span> - <span>&lt h6 &gt </span> </h3></li>
+            <div>
+             &lt h1 &gt Heading 1 &lt /h1 &gt
+            <br>&lt h2 &gt Sub Heading 2 &lt /h2 &gt</ br>
+            <br>&lt h3 &gt Sub Heading 2 &lt /h3 &gt</ br>
+            </div>
+        <li><h3>Paragraph Tags:  <span>&lt p &gt</span> </h3></li>
+        <div>
+        &lt p &gt This is my first paragraph. &lt /p &gt
+        <br>&lt p &gt This is my second paragraph. &lt /p &gt</ br>
+        </div>
+        <li><h3>Sections:  <span>&lt div &gt</span> and <span>&lt span &gt</span> </h3></li>
+        <div>
+        &lt div style="background: skyblue;" &gt
+        <br>This is a div.</ br> 
+        <br>&lt /div &gt </br>
+        </div>
+        
+        </ul>
+    </body>
+</html>
