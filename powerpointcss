@@ -1,0 +1,27 @@
+ body {
+  background-image: url("soft.png");
+} 
+
+h2 {
+ color: #FF6600;
+} 
+
+h3 {
+ color: white;
+}
+
+li {
+ color: #FF6600;
+}
+
+ div {
+     width: 60%;
+     opacity: 0.9;
+     background-color: #46463A;
+     color: white;
+     border: 1px solid white;
+ }
+ span {
+    color: #FF6600;
+     border: 0px;
+ }
